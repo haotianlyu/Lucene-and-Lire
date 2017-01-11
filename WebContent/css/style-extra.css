@@ -1,0 +1,13 @@
+div.name-pop{
+ background-color:#EDEDEB;
+ height:auto;
+ left:310px;
+ top:14px;
+ width:320px;
+ border: 1px red solid;
+ display:none;
+ padding-left:5px;
+ padding-top:5px;
+ padding-bottom: 5px;
+ padding-right: 5px
+}
